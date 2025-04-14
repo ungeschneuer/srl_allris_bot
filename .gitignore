@@ -1,0 +1,4 @@
+.env
+bot.log
+last_posted_id.txt
+.venv/
