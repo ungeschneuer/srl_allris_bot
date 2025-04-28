@@ -65,7 +65,7 @@ Zum Beispiel: Ausführung alle 2 Stunden
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz - siehe [LICENSE](LICENSE) für Details.
+Dieses Projekt steht unter der MIT-Lizenz - siehe [LICENSE](LICENSE.md) für Details.
 
 
 ## Datenschutz und rechtliche Hinweise
